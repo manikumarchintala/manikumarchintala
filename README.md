@@ -1,18 +1,17 @@
-## Hi there 👋 im mani chintala
+## Hi there 👋 I'm Mani Chintala
 
-<h1>hello there</h1>
+ 
+# About Me
+🎓 I am a recent graduate with a Master's in Computer Engineering from the University of Houston - Clear Lake.
 
-<!--
-**manikumarchintala/manikumarchintala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I specialize in frontend development and cloud technologies with a strong focus on improving system performance.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on ...BookSellingApp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+<br/>
+Email: manikumarchintala@gmail.com
+<br/>
+Phone: 346-508-4368
+<br/>
+LinkedIn: linkedin.com/in/mani-kumar-chintala
